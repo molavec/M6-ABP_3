@@ -1,3 +1,3 @@
-# que signo eres
+# Países Card
 
-Aplicación en express que devuelve el signo segun la fecha.
+Aplicación en express que retorna datos de cada país.

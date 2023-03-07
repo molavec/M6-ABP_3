@@ -24,5 +24,5 @@ app.get('/localidad/:number', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Zodiac app listening on port ${port}`)
+  console.log(`Countries app listening on port ${port}`)
 })
